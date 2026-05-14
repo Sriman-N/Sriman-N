@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sriman Meduri</h1>
 <h3 align="center">An aspiring AI engineer (undergrad student at Rutgers University)</h3>
 
-- 🔭 I’m currently working on [Study Quest](https://github.com/Sriman-N/Study-Quest)
-
-- My latest project that I have completed [Todolist](https://github.com/Sriman-N/Todolist)
+- My latest project that I have completed [Calendar-Notion-Sync](https://github.com/Sriman-N/calendar-notion-sync)
 
 - 📫 How to reach me **sriman411@gmail.com**
 <p align="left">
